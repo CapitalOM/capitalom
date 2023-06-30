@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## It rained last night.
+Gov & CS @ Harvard '26
 <!--
 **CapitalOM/capitalom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
