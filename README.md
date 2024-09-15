@@ -6,7 +6,7 @@
     👋Hi, my name is Omer!👋
   </h1>
   <ul>
-    <li> I'm a current Harvard <span><img height="20" src="https://1000logos.net/wp-content/uploads/2017/02/Harvard-symbol.jpg"></span> sophomore studying Computer Science and Government with a secondary in Statistics. </li>
+    <li> I'm a current Harvard <span><img height="20" src="https://1000logos.net/wp-content/uploads/2017/02/Harvard-symbol.jpg"></span> junior studying Computer Science and Government. </li>
     <li>I'm interested in web development, AI/ML, advances in LLMs/GenAI, finance/trading, STEM education, and the important questions asked in AI ethics.</li>
     <li>I'm currently a Co-President of <a href="https://www.humic.ai/">HUMIC</a>, Harvard's premier undergrad ML club; a past course assistant for <a href="https://www.vox.com/the-highlight/2019/5/14/18520783/harvard-economics-chetty">ECON50</a>, a popular data science and public policy course; and an upcoming teaching fellow for <a href="https://www.edx.org/cs50">CS50</a>, Harvard's most popular CS course. </li>
   </ul>
@@ -24,6 +24,7 @@
   
   <div align="center">
     <h3>Frameworks:</h3>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/astro" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/svelte" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />
@@ -43,7 +44,7 @@
   <div align="center">
     <h3>Tools:</h3>
     <img height="32" width="32" src="https://cdn.simpleicons.org/github" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/r" />
   </div>
 
   <h2>Some Personal Projects:</h2>
